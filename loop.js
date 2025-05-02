@@ -58,4 +58,5 @@
 // while(userNum!=gameNum){
 //     userNum=prompt("you enterd wrong number.guess again:");
 // }
-// console.log("congratultion, you enterd the right number");
+// console.log("congratultion, you enterd the right number");hhg
+bj
